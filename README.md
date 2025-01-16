@@ -41,3 +41,7 @@ Adicione os arquivos necessários ao projeto:
 Inclua os arquivos do Slick Slider (CSS e JS).
 Inclua o plugin jQuery Migrate se necessário para versões antigas.
 Pronto! O carrossel estará funcionando no seu navegador. 😊
+
+![image](https://github.com/user-attachments/assets/9bbdfde1-b9fc-485e-8d37-fc64a64db61b)
+![image](https://github.com/user-attachments/assets/ab922b3f-821d-42ba-82c7-4d92c79a1343)
+
